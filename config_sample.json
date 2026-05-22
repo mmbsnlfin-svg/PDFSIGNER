@@ -1,0 +1,12 @@
+{
+  "pkcs11_dll": "C:\\Windows\\System32\\eps2003csp11.dll",
+  "signature_reason": "Document digitally signed",
+  "signature_location": "India",
+  "signature_page": "last",
+  "box": [
+    50,
+    50,
+    300,
+    130
+  ]
+}
